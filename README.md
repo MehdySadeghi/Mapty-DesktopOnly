@@ -1,103 +1,136 @@
-🗺️ Mapty
+# 🗺️ Mapty
 
-Mapty is a workout tracking application built with HTML, CSS, and JavaScript. It uses the Geolocation API and Leaflet.js to allow users to log and visualize their running and cycling workouts directly on an interactive map.
+A modern workout tracking application built with JavaScript and interactive maps that allows users to log and manage their running and cycling workouts directly on a map.
 
-✨ Features
+Mapty combines fitness tracking with geolocation technology, making it easy to visualize workout history and monitor personal progress through an intuitive and engaging interface.
 
-📍 Automatically detects your current location
+## 🚀 Live Demo
 
-🗺️ Interactive map powered by Leaflet
+**Try it here:** mapty-desktop-only.vercel.app
 
-🏃 Log running workouts
+---
 
-🚴 Log cycling workouts
 
-📊 Calculate pace and speed automatically
+## ✨ Features
 
-💾 Persist workouts using Local Storage
+* 🗺️ Interactive map integration
+* 🏃 Log running workouts
+* 🚴 Log cycling workouts
+* 📍 Store workout locations
+* 📊 Track distance, duration, and pace
+* ⚡ Instant workout rendering
+* 💾 Persistent data storage using Local Storage
+* 📱 Responsive and user-friendly interface
 
-🎯 Click a workout to navigate to its location on the map
+---
 
-📱 Responsive and user-friendly interface
+## 🛠️ Built With
 
-📸 Screenshot
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Leaflet.js
+* Geolocation API
+* Local Storage API
 
-￼
+---
 
-🚀 Live Demo
+## 📂 Project Structure
 
-Live Demo
+```text
+mapty/
+│
+├── css/
+├── img/
+├── js/
+│   └── script.js
+│
+├── index.html
+└── README.md
+```
 
-🛠️ Built With
+---
 
-HTML5
-
-CSS3
-
-JavaScript (ES6+)
-
-Leaflet.js
-
-Geolocation API
-
-Local Storage API
-
-📂 Project Structure
-
-mapty/ ├── index.html ├── style.css ├── script.js ├── img/ │ ├── icon.png │ ├── logo.png │ └── ... └── README.md 
-
-⚙️ How It Works
-
-Allow location access.
-
-Click on the map to create a workout.
-
-Choose the workout type (Running or Cycling).
-
-Enter distance, duration, and cadence/elevation gain.
-
-Save the workout.
-
-Click any workout in the list to move the map to its location.
-
-📦 Installation
+## ⚙️ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/mapty.git 
+```bash
+git clone https://github.com/MehdySadeghi/Mapty-DesktopOnly.git
+```
 
 Navigate to the project folder:
 
-cd mapty 
+```bash
+cd Mapty-DesktopOnly
+```
 
-Start a local server (recommended):
+Open the project in your preferred code editor and launch:
 
-npx live-server 
+```text
+index.html
+```
 
-Or simply open index.html in your browser.
+You can also use VS Code Live Server for the best experience.
 
-🔮 Future Improvements
+---
 
-Edit and delete workouts
+## 🎓 What I Learned
 
-Sort workouts
+This project helped me strengthen my understanding of:
 
-Filter by workout type
+* Object-Oriented Programming (OOP)
+* JavaScript classes and inheritance
+* Browser Geolocation API
+* Working with third-party libraries
+* Interactive map integration
+* Managing application state
+* Local Storage persistence
+* Writing scalable and maintainable JavaScript
 
-Dark mode
+---
 
-Sync data with a backend
+## 🔮 Future Improvements
 
-User authentication
+Planned enhancements include:
 
-Cloud storage
+* Edit existing workouts
+* Delete individual workouts
+* Delete all workouts
+* Workout filtering and sorting
+* Dark mode support
+* User authentication
+* Cloud data synchronization
+* Mobile optimization
 
-📚 Acknowledgements
+---
 
-This project was built as part of The Complete JavaScript Course by Jonas Schmedtmann.
+## 🤝 Contributing
 
-📄 License
+Contributions, suggestions, and feedback are welcome.
 
-This project is for educational purposes.
+Feel free to fork the repository and submit a pull request.
 
-Made with ❤️ by Mehdy Sadeghi
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+### Mehdy Sadeghi
+
+Passionate Front-End Developer focused on building modern, responsive, and user-friendly web applications.
+
+GitHub:
+https://github.com/MehdySadeghi
+
+Repository:
+https://github.com/MehdySadeghi/Mapty-DesktopOnly
+
+---
+
+### ⭐ If you found this project useful, consider giving it a star.
