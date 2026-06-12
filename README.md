@@ -12,6 +12,16 @@ Mapty combines fitness tracking with geolocation technology, making it easy to v
 
 ---
 
+## 📸 Preview
+
+### Header Section
+
+```md
+![Mapty desktop version](./screenshots/mapty.png)
+```
+
+---
+
 
 ## ✨ Features
 
