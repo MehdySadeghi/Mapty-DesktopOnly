@@ -7,8 +7,9 @@ Mapty combines fitness tracking with geolocation technology, making it easy to v
 ## 🚀 Live Demo
 
 **Try it here:** https://mapty-desktop-only.vercel.app
-
 **Try using a VPN if you are in Iran**
+
+
 ---
 
 
